@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "800854078130",
+    "firebase_url": "https://chata-edd67.firebaseio.com",
+    "project_id": "chata-edd67",
+    "storage_bucket": "chata-edd67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800854078130:android:fd6afeda9c168fb1",
+        "android_client_info": {
+          "package_name": "luhamaa.com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800854078130-hmb8qjk69qp040ac1u0r5d0ul6jk61ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "luhamaa.com.chatapp",
+            "certificate_hash": "9b8b4bbf7a6ef6947dd97bac5c2cea0dccdc5436"
+          }
+        },
+        {
+          "client_id": "800854078130-v09ktjnjj7d6r4bllttrpa10ijdm5oia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7OL4yXWY2tzLRywhERSICvcFAaDmlxUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800854078130-v09ktjnjj7d6r4bllttrpa10ijdm5oia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
